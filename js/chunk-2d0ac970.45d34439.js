@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ac970"],{"19d6":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h1",[e._v("list2")]),t("p",[e._v("明朝那些事儿 当年明月")]),t("pre",[e._v("  王守仁 知行合一 阳明心学\n")])])}],l=t("9ca4"),u={},a=Object(l["a"])(u,c,r,!1,null,null,null);n["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d0ac970.45d34439.js.map
