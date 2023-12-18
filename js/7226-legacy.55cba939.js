@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_project"]=self["webpackChunkmy_project"]||[]).push([[7226],{7226:function(n,r,t){t.r(r),t.d(r,{default:function(){return a}});var e=t(7350);const u=(0,e._)("h1",null,"third03",-1),c=[u];function i(n,r){return(0,e.wg)(),(0,e.iD)("div",null,c)}var l=t(7068);const o={},s=(0,l.Z)(o,[["render",i]]);var a=s}}]);
+//# sourceMappingURL=7226-legacy.55cba939.js.map

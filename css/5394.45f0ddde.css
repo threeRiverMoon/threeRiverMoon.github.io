@@ -1,0 +1,1 @@
+.bar[data-v-7afe470a]{display:inline-block;height:20px;width:300px;background-color:#f5f5f5}.bar[data-v-7afe470a]:before{counter-reset:progress var(--percent);content:counter(progress) "% ";display:block;width:calc(300px*var(--percent)/100);font-size:12px;color:#fff;background-color:#2486ff;text-align:right;white-space:nowrap;overflow:hidden}
